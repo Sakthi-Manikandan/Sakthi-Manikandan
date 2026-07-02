@@ -1,6 +1,6 @@
 👋 Hi, I'm Sakthi
 
-I spend most of my time breaking things, fixing them, and calling it "learning." 😄
+«"I enjoy turning 'it works on my machine' into 'it works everywhere.' 😄»
 
 I'm a DevOps Engineer who enjoys building reliable infrastructure, automating deployments, and learning by building real-world projects.
 
